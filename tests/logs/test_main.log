@@ -1,0 +1,33 @@
+2022-12-28 20:28:47,867 - test_main - INFO - ===> Test test_main started at 2022-12-28 20:28:47.867732
+MainConst - INFO - Checking title: Your Store
+MainConst - INFO - Checking presence of element: ('id', 'search')
+MainConst - INFO - Checking presence of element: ('id', 'search')
+MainConst - INFO - Checking presence of element: ('id', 'cart')
+MainConst - INFO - Checking presence of element: ('id', 'cart')
+MainConst - INFO - Checking presence of element: ('id', 'cart')
+MainConst - INFO - Checking presence of element: ('id', 'category')
+MainConst - INFO - Checking presence of element: ('id', 'category')
+MainConst - INFO - Checking presence of element: ('id', 'category')
+MainConst - INFO - Checking presence of element: ('id', 'category')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
+2022-12-28 20:43:06,201 - test_main - INFO - ===> Test test_main started at 2022-12-28 20:43:06.201664
+2022-12-28 20:45:06,548 - test_main - INFO - ===> Test test_main started at 2022-12-28 20:45:06.548964
+MainConst - INFO - Checking title: Your Store
+MainConst - INFO - Checking presence of element: ('id', 'search')
+MainConst - INFO - Checking presence of element: ('id', 'search')
+MainConst - INFO - Checking presence of element: ('id', 'cart')
+MainConst - INFO - Checking presence of element: ('id', 'cart')
+MainConst - INFO - Checking presence of element: ('id', 'cart')
+MainConst - INFO - Checking presence of element: ('id', 'category')
+MainConst - INFO - Checking presence of element: ('id', 'category')
+MainConst - INFO - Checking presence of element: ('id', 'category')
+MainConst - INFO - Checking presence of element: ('id', 'category')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
+MainConst - INFO - Checking presence of element: ('id', 'carousel0')
